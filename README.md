@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlejandroDavid94
+- 👀 I’m interested in Telecommunication Technologies and Telematics Applications
+- 🌱 I’m currently learning on data analysis, machine learning and Artificial  Intelligence
+- 📫 How to reach me adcabrerav@gmail.com
